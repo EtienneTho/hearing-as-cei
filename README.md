@@ -3,8 +3,7 @@ This repository provides the Matlab scripts useful to generate the analyses and 
 * Thoret, E., Ystad, S., Kronland-Martinet, R. (2023) Hearing as adaptive cascaded envelope interpolation. Communications Biology
 
 # Files description
-Each Matlab file corresponds to one figure of sub-figure from the paper
-
+Each Matlab file corresponds to one figure of sub-figure from the paper. Each script should generates figures (.eps + .fig) and source data files (.csv) in the same folder.
 
 # Dependences
 These scripts are using libraries embedded in the subfoldeer ./lib/ in particular the Empirical Modes Decomposition library developed by Patrick Flandrin and Gabriel Rilling: https://perso.ens-lyon.fr/patrick.flandrin/emd.html
