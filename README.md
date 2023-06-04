@@ -20,10 +20,6 @@ Other functions picked up on different repositories are used:
 * Please cite them if re-used: Harris, Lara; Bones, Oliver Charles (2018). Making Sense Of Sounds: Data for the machine learning challenge 2018. University of Salford. Dataset. https://doi.org/10.17866/rd.salford.6901475.v4
 * Please email me if you need the exact folder I reorganized, basically, all the excerpts from the development set have been pasted in the same subfolder './cmos/'
 
-## Organisation
-Each file is named with the name of a figure or a subfigure of the paper. When run, each script should generate a .eps a .fig and a .csv file.
-
+# Contact
 Please let us know any bugs or questions.
-
-Contact:
 etiennethoret [at] gmail [dot] com
