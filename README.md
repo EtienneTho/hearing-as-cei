@@ -24,5 +24,5 @@ Other functions have been picked up on different repositories are used:
 * Please email me if you need the exact folder I reorganized.
 
 # Contact
-Please let me know for any bugs or questions.
+Please let me know for any bugs or questions:
 etiennethoret [at] gmail [dot] com
