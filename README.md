@@ -5,7 +5,7 @@ This repository provides the Matlab scripts useful to generate the analyses and 
 # Organisation
 Each Matlab file corresponds to one figure of sub-figure from the paper. Each script should generates figures (.eps + .fig) and source data files (.csv) in folders './out/eps/', './out/fig/', and './out/csv/'. To avoid errors, please add to path, all the folders and subfolders before running the scripts.
 
-A description of the output 'csv' file is provided in comments at the beginning of each script and also in 'csv_descriptions'
+A description of the output 'csv' file is provided in comments at the beginning of each script and also in 'csv_descriptions.txt'
 
 # Dependences
 These scripts are using libraries embedded in the subfoldeer ./lib/ in particular the Empirical Modes Decomposition library developed by Patrick Flandrin and Gabriel Rilling: https://perso.ens-lyon.fr/patrick.flandrin/emd.html
