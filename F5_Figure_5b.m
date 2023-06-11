@@ -94,7 +94,6 @@ grid minor
 opt.BoxDim = [5, 5]; %[width, height]
 title('Influence of the number of sifting iterations')
 setPlotProp(opt);
-matrixtowrite = [] ;
 % Figure_5b_1.csv - col 1: 1it, col 2: 10its, col 3: 100its, col 4: 1000its, col 5: theoretical roughness
 writematrix(matrixtowrite, './out/csv/Figure_5b.csv') ;
 
