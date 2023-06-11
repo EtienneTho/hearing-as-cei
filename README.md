@@ -3,18 +3,18 @@ This repository provides the Matlab scripts useful to generate the analyses and 
 * Thoret, E., Ystad, S., Kronland-Martinet, R. (2023) Hearing as adaptive cascaded envelope interpolation. Communications Biology
 
 # Organisation
-Each Matlab file corresponds to one figure of sub-figure from the paper. Each script should generates figures (.eps + .fig) and source data files (.csv) in folders './out/eps/', './out/fig/', and './out/csv/'. To avoid errors, please add to path, all the folders and subfolders before running the scripts.
+Each Matlab file corresponds to one figure of sub-figure from the paper. Each script should generate figures (.eps + .fig) and source data files (.csv) in folders './out/eps/', './out/fig/', and './out/csv/'. To avoid errors, please add to path, all the folders and subfolders before running the scripts.
 
 A description of the output 'csv' file is provided in comments at the beginning of each script and also in 'csv_descriptions.txt'
 
 # Dependences
 These scripts are using libraries embedded in the subfoldeer ./lib/ in particular the Empirical Modes Decomposition library developed by Patrick Flandrin and Gabriel Rilling: https://perso.ens-lyon.fr/patrick.flandrin/emd.html
 
-Please cite us and them if you use part of these scripts :
+Please cite us and them if you use parts of these scripts :
 * Flandrin, P., Rilling, G., & Goncalves, P. (2004). Empirical mode decomposition as a filter bank. IEEE signal processing letters, 11(2), 112-114.
 * Rilling, G., & Flandrin, P. (2007). One or two frequencies? The empirical mode decomposition answers. IEEE transactions on signal processing, 56(1), 85-95.
 
-Other functions have been picked up on different repositories are used:
+Other functions that have been picked up on different repositories can be found here:
 * 'btqn.m': Bradley-Terry algorithm http://personal.psu.edu/drh20/code/btmatlab/
 
 # Datasets
