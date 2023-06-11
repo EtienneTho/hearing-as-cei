@@ -100,7 +100,7 @@ writematrix(matrixtowrite, './out/csv/Figure_5c.csv') ;
 
 %%
 saveas(gca,'./out/eps/F5_Figure_5c.eps','epsc')
-saveas(gca,'./out/csv/F5_Figure_5c.fig','fig')
+saveas(gca,'./out/fig/F5_Figure_5c.fig','fig')
 
 %% functions
 function d2 = bindist(a, b)
